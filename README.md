@@ -1,2 +1,2 @@
 # SegmentGame 
-棒パズルゲームを作りたい
+### [https://puni-pro.github.io/SegmentGame/]
