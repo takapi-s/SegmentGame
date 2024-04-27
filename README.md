@@ -1,2 +1,2 @@
 # SegmentGame 
-### [https://puni-pro.github.io/SegmentGame/]
+### [https://takapi-s.github.io/SegmentGame/]
